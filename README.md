@@ -1,7 +1,8 @@
 # 👋 Hi, I'm Abdelilah El Karmoudi ( 알렉스 )
 
 **Embedded Systems Developer | STM32 | C/C++ Engineer**
-[![Header](https://github.com/ELKARMOUDI/ELKARMOUDI/blob/main/assets/embedded-banner.png?raw=true)](https://linkedin.com/in/abdelilah-el-karmoudi-128523294)
+
+[![Header](https://github.com/ELKARMOUDI/ELKARMOUDI/blob/main/assets/embedded-banner.png?raw=true)](https://www.linkedin.com/in/abdelilah-el-karmoudi-128523294/)
 
 ## 🚀 About Me
 I'm a Computer Science graduate passionate about embedded systems development. My expertise includes:
