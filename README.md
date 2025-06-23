@@ -14,9 +14,23 @@ I'm a Computer Science graduate passionate about embedded systems development. M
 ![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=c%2B%2B&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/IDE-STM32CubeIDE-informational?style=flat&logo=stmicroelectronics&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/OS-FreeRTOS-informational?style=flat&logo=freertos&logoColor=white&color=2bbc8a)
 
-## 📈 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=ELKARMOUDI&show_icons=true&theme=radical)
+## 🚀 Featured Projects
+
+[![STM32 Distance Sensor](https://github-readme-stats.vercel.app/api/pin/?username=ELKARMOUDI&repo=STM32-HC-SR04&theme=dark)](https://github.com/ELKARMOUDI/STM32-HC-SR04)
+[![Embedded Systems](https://github-readme-stats.vercel.app/api/pin/?username=ELKARMOUDI&repo=Embedded_Systems&theme=dark)](https://github.com/ELKARMOUDI/Embedded_Systems)
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ELKARMOUDI&show_icons=true&theme=radical&count_private=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ELKARMOUDI&theme=radical" />
+</p>
+
+<p align="center">
+  <img width="60%" src="https://github-readme-activity-graph.vercel.app/graph?username=ELKARMOUDI&theme=react-dark&hide_border=true" />
+</p>
 
 ## 🌱 Currently Learning
 - FreeRTOS for STM32
