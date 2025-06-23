@@ -1,6 +1,7 @@
 # 👋 Hi, I'm Abdelilah El Karmoudi ( 알렉스 )
 
 **Embedded Systems Developer | STM32 | C/C++ Engineer**
+[![Header](https://github.com/ELKARMOUDI/ELKARMOUDI/blob/main/assets/embedded-banner.png?raw=true)](https://linkedin.com/in/abdelilah-el-karmoudi-128523294)
 
 ## 🚀 About Me
 I'm a Computer Science graduate passionate about embedded systems development. My expertise includes:
@@ -9,28 +10,27 @@ I'm a Computer Science graduate passionate about embedded systems development. M
 - Sensor integration and hardware interfacing
 - Algorithm optimization for embedded systems
 
-## 🔧 Technologies & Tools
-![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=c&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=c%2B%2B&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/IDE-STM32CubeIDE-informational?style=flat&logo=stmicroelectronics&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/OS-FreeRTOS-informational?style=flat&logo=freertos&logoColor=white&color=2bbc8a)
+## 🔧 Languages & Tools
+### Embedded Development
+![](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
+![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![](https://img.shields.io/badge/STM32CubeIDE-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
+
+### Web Development
+![](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ## 🚀 Featured Projects
 
-[![STM32 Distance Sensor](https://github-readme-stats.vercel.app/api/pin/?username=ELKARMOUDI&repo=STM32-HC-SR04&theme=dark)](https://github.com/ELKARMOUDI/STM32-HC-SR04)
-[![Embedded Systems](https://github-readme-stats.vercel.app/api/pin/?username=ELKARMOUDI&repo=Embedded_Systems&theme=dark)](https://github.com/ELKARMOUDI/Embedded_Systems)
+[![STM32 Distance Sensor](https://github-readme-stats.vercel.app/api/pin/?username=ELKARMOUDI&repo=HCSR04-BluePill&theme=dark)](https://github.com/ELKARMOUDI/HCSR04-BluePill)
+[![STM32 LED Blink](https://github-readme-stats.vercel.app/api/pin/?username=ELKARMOUDI&repo=bluepill-led-blink&theme=dark)](https://github.com/ELKARMOUDI/bluepill-led-blink)
+[![Korean Chatbot](https://github-readme-stats.vercel.app/api/pin/?username=ELKARMOUDI&repo=korean-chatbot-new&theme=dark)](https://github.com/ELKARMOUDI/korean-chatbot-new)
+[![Portfolio Website](https://github-readme-stats.vercel.app/api/pin/?username=ELKARMOUDI&repo=website-portfolio&theme=dark)](https://github.com/ELKARMOUDI/website-portfolio)
 
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ELKARMOUDI&show_icons=true&theme=radical&count_private=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ELKARMOUDI&theme=radical" />
-</p>
-
-<p align="center">
-  <img width="60%" src="https://github-readme-activity-graph.vercel.app/graph?username=ELKARMOUDI&theme=react-dark&hide_border=true" />
-</p>
 
 ## 🌱 Currently Learning
 - FreeRTOS for STM32
@@ -39,6 +39,6 @@ I'm a Computer Science graduate passionate about embedded systems development. M
 
 ## 📫 How to Reach Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/abdelilah-el-karmoudi-128523294/)
-[![Email](https://img.shields.io/badge/Email-abdel-student@outlook.fr-red?style=flat&logo=gmail)](mailto:abdel-student@outlook.fr)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=microsoft-outlook)](mailto:abdel-student@outlook.fr)
 
 💡 **Motto**: "Transforming silicon potential into embedded reality – one line of C at a time."
