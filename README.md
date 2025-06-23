@@ -39,6 +39,6 @@ I'm a Computer Science graduate passionate about embedded systems development. M
 
 ## 📫 How to Reach Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/abdelilah-el-karmoudi-128523294/)
-[![Email](https://img.shields.io/badge/Email-a.elkarmoudi@example.com-red?style=flat&logo=gmail)](mailto:abdel-student@outlook.fr)
+[![Email](https://img.shields.io/badge/Email-abdel-student@outlook.fr-red?style=flat&logo=gmail)](mailto:abdel-student@outlook.fr)
 
 💡 **Motto**: "Transforming silicon potential into embedded reality – one line of C at a time."
