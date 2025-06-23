@@ -3,6 +3,8 @@
 **Embedded Systems Developer | STM32 | C/C++ Engineer**
 
 
+
+
 ## 🚀 About Me
 I'm a Computer Science graduate passionate about embedded systems development. My expertise includes:
 - STM32 microcontroller programming (CubeIDE, HAL)
@@ -36,6 +38,9 @@ I'm a Computer Science graduate passionate about embedded systems development. M
   <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ELKARMOUDI&layout=compact&hide=Makefile,Shell&theme=radical" />
   <img width="45%" src="https://streak-stats.demolab.com/?user=ELKARMOUDI&theme=radical" />
 </p>
+
+<div align="center">
+
 
 
 ## 🌱 Currently Learning
