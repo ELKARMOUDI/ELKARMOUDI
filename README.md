@@ -32,6 +32,25 @@ I'm a Computer Science graduate passionate about embedded systems development. M
 [![Korean Chatbot](https://github-readme-stats.vercel.app/api/pin/?username=ELKARMOUDI&repo=korean-chatbot-new&theme=dark)](https://github.com/ELKARMOUDI/korean-chatbot-new)
 [![Portfolio Website](https://github-readme-stats.vercel.app/api/pin/?username=ELKARMOUDI&repo=website-portfolio&theme=dark)](https://github.com/ELKARMOUDI/website-portfolio)
 
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ELKARMOUDI&layout=compact&langs_count=6&hide=Makefile,Shell&theme=radical" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ELKARMOUDI&layout=compact&theme=radical&custom_title=Weekly+Development" alt="Weekly Dev Breakdown" />
+</p>
+
+<div align="center">
+  
+| **Metric**           | **Stats**                |
+|-----------------------|--------------------------|
+| Total Contributions   | 425 (25 Jan 2022 - Present) |
+| Current Streak        | 1 day (since 22 Jun)     |
+| Longest Streak        | 16 days (23 Apr - 8 May) |
+
+</div>
+
 
 ## 🌱 Currently Learning
 - FreeRTOS for STM32
