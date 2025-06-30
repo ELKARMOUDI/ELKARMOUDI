@@ -1,13 +1,13 @@
 # 👋 Hi, I'm Abdelilah El Karmoudi ( 알렉스 )
 
-**Embedded Systems Developer | STM32 | C/C++ Engineer**
+**Embedded Software Developer | STM32 **
 
 
 
 
 ## 🚀 About Me
 I'm a Computer Science graduate passionate about embedded systems development. My expertise includes:
-- STM32 microcontroller programming (CubeIDE, HAL)
+- STM32 microcontroller programming (CubeIDE/MX/PRG, HAL)
 - Low-level C/C++ development
 - Sensor integration and hardware interfacing
 - Algorithm optimization for embedded systems
