@@ -48,7 +48,6 @@ I'm a Computer Science graduate passionate about embedded systems development. M
 ## 📊 My Coding Stats
 <p align="center">
   <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ELKARMOUDI&layout=compact&hide=Makefile,Shell&theme=radical" />
-  
 </p>
 
 <div align="center">
