@@ -60,6 +60,7 @@ I'm a Computer Science graduate passionate about embedded systems development. M
 - FreeRTOS for STM32
 - Embedded Linux
 - Low-power design techniques
+- Digital Signal Processing in C 
 
 ## 📫 How to Reach Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/abdelilah-el-karmoudi-128523294/)
