@@ -58,7 +58,6 @@ I'm a Computer Science graduate passionate about embedded systems development. M
 ## 🌱 Current Focus:
 
 - FreeRTOS for STM32
-- Embedded Linux
 - Low-power design techniques
 - Digital Signal Processing in C 
 
