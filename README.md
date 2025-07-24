@@ -40,10 +40,10 @@ I'm a Computer Science graduate passionate about embedded systems development. M
 
 ## 🚀 Featured Projects
 
+[![USB HID Mouse Project](https://github-readme-stats.vercel.app/api/pin/?username=ELKARMOUDI&repo=USB_HID_MouseProject&theme=dark)](https://github.com/ELKARMOUDI/USB_HID_MouseProject)
 [![STM32 Distance Sensor](https://github-readme-stats.vercel.app/api/pin/?username=ELKARMOUDI&repo=HCSR04-BluePill&theme=dark)](https://github.com/ELKARMOUDI/HCSR04-BluePill)
-[![STM32 LED Blink](https://github-readme-stats.vercel.app/api/pin/?username=ELKARMOUDI&repo=bluepill-led-blink&theme=dark)](https://github.com/ELKARMOUDI/bluepill-led-blink)
-[![Korean Chatbot](https://github-readme-stats.vercel.app/api/pin/?username=ELKARMOUDI&repo=korean-chatbot-new&theme=dark)](https://github.com/ELKARMOUDI/korean-chatbot-new)
-[![Portfolio Website](https://github-readme-stats.vercel.app/api/pin/?username=ELKARMOUDI&repo=website-portfolio&theme=dark)](https://github.com/ELKARMOUDI/website-portfolio)
+[![GPIO Assembly](https://github-readme-stats.vercel.app/api/pin/?username=ELKARMOUDI&repo=GPIO-Assembly&theme=dark)](https://github.com/ELKARMOUDI/GPIO-Assembly)
+[![Bare-Metal GPIO](https://github-readme-stats.vercel.app/api/pin/?username=ELKARMOUDI&repo=Bare-Metal_GPIO&theme=dark)](https://github.com/ELKARMOUDI/Bare-Metal_GPIO)
 
 ## 📊 My Coding Stats
 <p align="center">
