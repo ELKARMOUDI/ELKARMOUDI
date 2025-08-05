@@ -57,8 +57,8 @@ passionate about building real-world tech solutions and continually growing as a
 
 ## 🌱 Current Focus:
 
+- Web development 
 - FreeRTOS for STM32
-- Low-power design techniques
 - Digital Signal Processing in C 
 
 ## 📫 How to Reach Me
