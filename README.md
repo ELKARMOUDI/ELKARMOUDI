@@ -15,9 +15,7 @@ passionate about building real-world tech solutions and continually growing as a
 ![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![STM32CubeIDE](https://img.shields.io/badge/STM32CubeIDE-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
-![CubeMX](https://img.shields.io/badge/CubeMX-4FA9D1?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
-![CubeProgrammer](https://img.shields.io/badge/CubeProgrammer-009FDA?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
+
 
 ### 💻 Web Development  
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
