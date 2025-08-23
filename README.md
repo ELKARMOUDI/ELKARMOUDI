@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Abdelilah El Karmoudi 
+# 👋 Hi, I'm Abdelilah El Karmoudi ( 알렉스 - ALEX )
 
 ** Software Developer| Full Stack Developer | Embedded Systems |  **
 
