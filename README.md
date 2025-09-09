@@ -10,6 +10,7 @@
 passionate about building real-world tech solutions and continually growing as a developer. My experience spans full-stack development, embedded systems, and AI-powered chatbots, with personal and academic projects that reflect my curiosity and hands-on mindset.
 
 
+
 ## 🔧 Languages & Tools
 
 ### 🧩 Embedded Development  
